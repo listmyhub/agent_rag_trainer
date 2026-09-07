@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "agent": "./src/RAG开发应用项目_Agent/health_agent.py:agent"
+  },
+  "env":".env"
+}
